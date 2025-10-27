@@ -1,14 +1,14 @@
-command_id: 701.709.220103
+command_id: 7D2.220103|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_ODO_V5: 52346
+    TOYOTA_ODO_V2_V2: 52346
   response: 709076201030200CC7A
 - expected_values:
-    TOYOTA_ODO_V5: 52735
+    TOYOTA_ODO_V2_V2: 52735
   response: 709076201030200CDFF
 - expected_values:
-    TOYOTA_ODO_V5: 52736
+    TOYOTA_ODO_V2_V2: 52736
   response: 709076201030200CE00
 - expected_values:
-    TOYOTA_ODO_V5: 52992
+    TOYOTA_ODO_V2_V2: 52992
   response: 709076201030200CF00
