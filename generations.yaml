@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Avalon"
+
 generations:
   - name: "First Generation (XX10)"
     start_year: 1994
