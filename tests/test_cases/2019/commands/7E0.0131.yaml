@@ -5,3 +5,6 @@ test_cases:
   response: |-
     7E90441310099
     7E80441310099
+- expected_values:
+    CLR_DIST: 4523
+  response: 7E904413111AB
