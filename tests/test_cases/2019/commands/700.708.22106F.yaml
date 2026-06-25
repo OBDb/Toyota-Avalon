@@ -1,5 +1,26 @@
 command_id: 700.708.22106F
 test_cases:
 - expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 0.43939
+  response: 7080562106F002D
+- expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 3.52489
+  response: 7080562106F0169
+- expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 14.62684
+  response: 7080562106F05DA
+- expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 15.74973
+  response: 7080562106F064D
+- expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 23.12174
+  response: 7080562106F0940
+- expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 25.39681
+  response: 7080562106F0A29
+- expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 27.36919
+  response: 7080562106F0AF3
+- expected_values:
     TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 29.99577
   response: 7080562106F0C00
