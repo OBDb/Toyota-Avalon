@@ -1,0 +1,14 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    TOYOTA_LFP: 385.1
+    TOYOTA_LFPS: -2891.7
+  response: 708056210CD8F0B
+- expected_values:
+    TOYOTA_LFP: 408
+    TOYOTA_LFPS: -2868.8
+  response: 708056210CD8FF0
+- expected_values:
+    TOYOTA_LFP: 409.7
+    TOYOTA_LFPS: -2867.1
+  response: 708056210CD9001
