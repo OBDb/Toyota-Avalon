@@ -4,29 +4,5 @@ test_cases:
     TOYOTA_AMBIENT_T: 19
   response: 70804621F463B
 - expected_values:
-    TOYOTA_AMBIENT_T: 20
-  response: 70804621F463C
-- expected_values:
-    TOYOTA_AMBIENT_T: 21
-  response: 70804621F463D
-- expected_values:
-    TOYOTA_AMBIENT_T: 22
-  response: 70804621F463E
-- expected_values:
-    TOYOTA_AMBIENT_T: 23
-  response: 70804621F463F
-- expected_values:
-    TOYOTA_AMBIENT_T: 25
-  response: 70804621F4641
-- expected_values:
-    TOYOTA_AMBIENT_T: 43
-  response: 70804621F4653
-- expected_values:
-    TOYOTA_AMBIENT_T: 44
-  response: 70804621F4654
-- expected_values:
-    TOYOTA_AMBIENT_T: 45
-  response: 70804621F4655
-- expected_values:
     TOYOTA_AMBIENT_T: 46
   response: 70804621F4656

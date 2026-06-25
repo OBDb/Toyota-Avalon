@@ -1,8 +1,8 @@
 command_id: 700.708.221018
 test_cases:
 - expected_values:
-    TOYOTA_INJECTOR_PORT: 3.128
-  response: 708056210180C38
+    TOYOTA_INJECTOR_PORT: 2.373
+  response: '708056210180945'
 - expected_values:
     TOYOTA_INJECTOR_PORT: 3.339
   response: 708056210180D0B
