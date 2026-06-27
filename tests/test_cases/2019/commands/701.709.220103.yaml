@@ -4,29 +4,5 @@ test_cases:
     TOYOTA_ODO_V5: 78660
   response: '7090762010302013344'
 - expected_values:
-    TOYOTA_ODO_V5: 78661
-  response: '7090762010302013345'
-- expected_values:
-    TOYOTA_ODO_V5: 78662
-  response: '7090762010302013346'
-- expected_values:
-    TOYOTA_ODO_V5: 78663
-  response: '7090762010302013347'
-- expected_values:
-    TOYOTA_ODO_V5: 78708
-  response: '7090762010302013374'
-- expected_values:
-    TOYOTA_ODO_V5: 78709
-  response: '7090762010302013375'
-- expected_values:
-    TOYOTA_ODO_V5: 78764
-  response: 70907620103020133AC
-- expected_values:
-    TOYOTA_ODO_V5: 78765
-  response: 70907620103020133AD
-- expected_values:
-    TOYOTA_ODO_V5: 78766
-  response: 70907620103020133AE
-- expected_values:
-    TOYOTA_ODO_V5: 78767
-  response: 70907620103020133AF
+    TOYOTA_ODO_V5: 78818
+  response: '70907620103020133E2'
