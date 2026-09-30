@@ -1,7 +1,7 @@
 command_id: 700.708.22107B
 test_cases:
 - expected_values:
-    TOYOTA_EOT_V2: 50
+    AVALON_EOT_700: 50
   response: |-
     708102262107B000004
     7082132010000813885
@@ -9,7 +9,7 @@ test_cases:
     70823823E800000007D
     708245A69694B4B0000
 - expected_values:
-    TOYOTA_EOT_V2: 50
+    AVALON_EOT_700: 50
   response: |-
     708102262107B000004
     7082132010000813885
@@ -17,7 +17,7 @@ test_cases:
     70823823B800000007E
     708245A69694B4B0000
 - expected_values:
-    TOYOTA_EOT_V2: 49
+    AVALON_EOT_700: 49
   response: |-
     708102262107B000004
     7082132010000813D85
@@ -25,7 +25,7 @@ test_cases:
     7082382287FFE000085
     708245969694B4B0002
 - expected_values:
-    TOYOTA_EOT_V2: 49
+    AVALON_EOT_700: 49
   response: |-
     708102262107B000004
     7082132010000814885
@@ -33,7 +33,7 @@ test_cases:
     7082382397FFE000085
     708245969694B4B0000
 - expected_values:
-    TOYOTA_EOT_V2: 50
+    AVALON_EOT_700: 50
   response: |-
     708102262107B000004
     7082132010000815E85
@@ -41,7 +41,7 @@ test_cases:
     7082382297FFF000080
     708245A69694B4B0001
 - expected_values:
-    TOYOTA_EOT_V2: 50
+    AVALON_EOT_700: 50
   response: |-
     708102262107B000004
     7082132010000816D85
