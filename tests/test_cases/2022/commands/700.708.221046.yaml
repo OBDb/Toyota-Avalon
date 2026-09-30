@@ -1,8 +1,8 @@
 command_id: 700.708.221046
 test_cases:
 - expected_values:
-    TOYOTA_COOLING_FAN_DUTY_RATIO: 30
+    AVALON_COOLING_FAN_DUTY_RATIO: 30
   response: 708046210463C
 - expected_values:
-    TOYOTA_COOLING_FAN_DUTY_RATIO: 32
+    AVALON_COOLING_FAN_DUTY_RATIO: 32
   response: '7080462104640'

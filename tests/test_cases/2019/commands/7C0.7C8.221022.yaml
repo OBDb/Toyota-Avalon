@@ -1,18 +1,14 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 6.07
-    TOYOTA_FUEL_LEVEL: 6.07
+    AVALON_FUEL_LEVEL: 6.07
   response: 7C805621022025F
 - expected_values:
-    TOYOTA_FLV: 12.81
-    TOYOTA_FUEL_LEVEL: 12.81
+    AVALON_FUEL_LEVEL: 12.81
   response: 7C8056210220501
 - expected_values:
-    TOYOTA_FLV: 28.11
-    TOYOTA_FUEL_LEVEL: 28.11
+    AVALON_FUEL_LEVEL: 28.11
   response: 7C8056210220AFB
 - expected_values:
-    TOYOTA_FLV: 57.27
-    TOYOTA_FUEL_LEVEL: 57.27
+    AVALON_FUEL_LEVEL: 57.27
   response: 7C805621022165F
