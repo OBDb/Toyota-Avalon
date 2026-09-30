@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2122
 test_cases:
 - expected_values:
-    TOYOTA_AAT_7C4: 14.85
+    AVALON_AAT_7C4: 14.85
   response: 7CC0361226D
 - expected_values:
-    TOYOTA_AAT_7C4: 44.6
+    AVALON_AAT_7C4: 44.6
   response: 7CC036122C2
