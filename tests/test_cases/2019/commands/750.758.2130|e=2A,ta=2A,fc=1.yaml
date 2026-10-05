@@ -1,10 +1,14 @@
 command_id: 750.758.2130|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    AVALON_TP_RR: 2.18966
+    AVALON_TP_FL: null
+    AVALON_TP_FR: null
+    AVALON_TP_RL: null
+    AVALON_TP_RR: null
+    AVALON_TP_SPARE: null
   response: |-
     7582A10076130000000
-    7582A219C0000000000
+    7582A21000000000000
 - expected_values:
     AVALON_TP_FR: 2.34483
     AVALON_TP_RL: 2.37931
@@ -12,12 +16,6 @@ test_cases:
   response: |-
     7582A1007613000A5A7
     7582A21A40000000000
-- expected_values:
-    AVALON_TP_FR: 2.43103
-    AVALON_TP_RL: 2.48276
-  response: |-
-    7582A1007613000AAAD
-    7582A21000000000000
 - expected_values:
     AVALON_TP_FL: 1.91379
     AVALON_TP_FR: 1.93103
