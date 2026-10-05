@@ -1,8 +1,8 @@
 command_id: 701.709.22162B
 test_cases:
 - expected_values:
-    AVALON_ATF_THERMAL_DEGRAD_EST: 3395
-  response: 7090562162B0D43
+    AVALON_ATF_THERMAL_DEGRAD_EST: 131
+  response: 7090562162B0083
 - expected_values:
     AVALON_ATF_THERMAL_DEGRAD_EST: 8938
   response: 7090562162B22EA

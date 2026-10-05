@@ -2,6 +2,13 @@ command_id: 7B0.7B8.2146
 test_cases:
 - expected_values:
     AVALON_ZP_DEC: 0
+    AVALON_ZP_DEC2: 0
+    AVALON_ZP_YAW: 0
+  response: |-
+    7B8100961460000807F
+    7B821F1010B00000000
+- expected_values:
+    AVALON_ZP_DEC: 0
     AVALON_ZP_DEC2: -0.02
     AVALON_ZP_YAW: 0
   response: |-
