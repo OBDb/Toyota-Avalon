@@ -4,9 +4,6 @@ test_cases:
     AVALON_ODO_V5: 294795
   response: 7090762010301047F8B
 - expected_values:
-    AVALON_ODO_V5: 295605
-  response: 70907620103010482B5
-- expected_values:
     AVALON_ODO_V5: 78660
   response: '7090762010302013344'
 - expected_values:
@@ -15,3 +12,6 @@ test_cases:
 - expected_values:
     AVALON_ODO_V5: 79359
   response: 70907620103020135FF
+- expected_values:
+    AVALON_ODO_V5: 109478
+  response: 709076201030201ABA6

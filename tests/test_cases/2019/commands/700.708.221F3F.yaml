@@ -1,0 +1,14 @@
+command_id: 700.708.221F3F
+test_cases:
+- expected_values:
+    AVALON_CAT_T_BANK_2_SENS_2: 159.44
+  response: 70805621F3F0454
+- expected_values:
+    AVALON_CAT_T_BANK_2_SENS_2: 185
+  response: 70805621F3F04E2
+- expected_values:
+    AVALON_CAT_T_BANK_2_SENS_2: 230.54
+  response: 70805621F3F05DF
+- expected_values:
+    AVALON_CAT_T_BANK_2_SENS_2: 273.74
+  response: 70805621F3F06CF

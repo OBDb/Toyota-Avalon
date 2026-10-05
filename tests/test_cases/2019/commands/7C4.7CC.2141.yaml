@@ -1,0 +1,14 @@
+command_id: 7C4.7CC.2141
+test_cases:
+- expected_values:
+    AVALON_AIR_MIX_SERVO_ACT_D: 89
+    AVALON_AIR_MIX_SERVO_TARG_D: 89
+  response: 7CC06614159591D16
+- expected_values:
+    AVALON_AIR_MIX_SERVO_ACT_D: 115
+    AVALON_AIR_MIX_SERVO_TARG_D: 115
+  response: 7CC06614173731D16
+- expected_values:
+    AVALON_AIR_MIX_SERVO_ACT_D: 129
+    AVALON_AIR_MIX_SERVO_TARG_D: 129
+  response: 7CC06614181811D16
