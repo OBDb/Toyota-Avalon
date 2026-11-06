@@ -10,12 +10,23 @@ test_cases:
     7582A10076130000000
     7582A21000000000000
 - expected_values:
+    AVALON_TP_RR: 2.18966
+  response: |-
+    7582A10076130000000
+    7582A219C0000000000
+- expected_values:
     AVALON_TP_FR: 2.34483
     AVALON_TP_RL: 2.37931
     AVALON_TP_RR: 2.32759
   response: |-
     7582A1007613000A5A7
     7582A21A40000000000
+- expected_values:
+    AVALON_TP_FR: 2.43103
+    AVALON_TP_RL: 2.48276
+  response: |-
+    7582A1007613000AAAD
+    7582A21000000000000
 - expected_values:
     AVALON_TP_FL: 1.91379
     AVALON_TP_FR: 1.93103

@@ -4,6 +4,9 @@ test_cases:
     AVALON_CAT_T_BANK_2_SENS_2: 159.44
   response: 70805621F3F0454
 - expected_values:
+    AVALON_CAT_T_BANK_2_SENS_2: 159.62
+  response: 70805621F3F0455
+- expected_values:
     AVALON_CAT_T_BANK_2_SENS_2: 185
   response: 70805621F3F04E2
 - expected_values:
