@@ -1,5 +1,6 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    AVALON_ENG_ODO: 109478
+    AVALON_ENG_ODO_RAW: 109478
+    AVALON_ENG_ODO_UNIT: MI
   response: 708076201030201ABA6

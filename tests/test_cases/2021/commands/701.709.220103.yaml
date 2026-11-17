@@ -1,5 +1,6 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    AVALON_ODO_V5: 319430
+    AVALON_ODO_V5_RAW: 319430
+    AVALON_ODO_V5_UNIT: KM
   response: 709076201030104DFC6
