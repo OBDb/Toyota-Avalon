@@ -1,0 +1,17 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    AVALON_DIST_SINCE_BAT_DISC: 13170
+  response: 7080562106C3372
+- expected_values:
+    AVALON_DIST_SINCE_BAT_DISC: 13171
+  response: 7080562106C3373
+- expected_values:
+    AVALON_DIST_SINCE_BAT_DISC: 13172
+  response: 7080562106C3374
+- expected_values:
+    AVALON_DIST_SINCE_BAT_DISC: 13173
+  response: 7080562106C3375
+- expected_values:
+    AVALON_DIST_SINCE_BAT_DISC: 13174
+  response: 7080562106C3376

@@ -1,0 +1,44 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- expected_values:
+    AVALON_LAT_G: 0
+    AVALON_LNG_G: -0.02
+    AVALON_STEER_ANGLE: 4.5
+    AVALON_YAW_RATE: 2
+  response: 7B807614700FF82802D
+- expected_values:
+    AVALON_LAT_G: 0.14
+    AVALON_LNG_G: -0.02
+    AVALON_STEER_ANGLE: 36
+    AVALON_YAW_RATE: 8
+  response: 7B807614707FF888168
+- expected_values:
+    AVALON_LAT_G: 0.24
+    AVALON_LNG_G: -0.04
+    AVALON_STEER_ANGLE: 30
+    AVALON_YAW_RATE: 9
+  response: 7B80761470CFE89812C
+- expected_values:
+    AVALON_LAT_G: 0.26
+    AVALON_LNG_G: -0.02
+    AVALON_STEER_ANGLE: 45
+    AVALON_YAW_RATE: 12
+  response: 7B80761470DFF8C81C2
+- expected_values:
+    AVALON_LAT_G: -0.24
+    AVALON_LNG_G: -0.06
+    AVALON_STEER_ANGLE: -27
+    AVALON_YAW_RATE: -6
+  response: 7B8076147F4FD7A7EF2
+- expected_values:
+    AVALON_LAT_G: -0.12
+    AVALON_LNG_G: -0.12
+    AVALON_STEER_ANGLE: -18
+    AVALON_YAW_RATE: -2
+  response: 7B8076147FAFA7E7F4C
+- expected_values:
+    AVALON_LAT_G: -0.02
+    AVALON_LNG_G: 0
+    AVALON_STEER_ANGLE: -9
+    AVALON_YAW_RATE: -2
+  response: 7B8076147FF007E7FA6

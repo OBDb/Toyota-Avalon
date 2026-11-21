@@ -1,0 +1,8 @@
+command_id: 700.708.22106F
+test_cases:
+- expected_values:
+    AVALON_INTAKE_VVT_TARGET_ANGLE_B1: 9.06122
+  response: 7080562106F03A0
+- expected_values:
+    AVALON_INTAKE_VVT_TARGET_ANGLE_B1: 29.99577
+  response: 7080562106F0C00

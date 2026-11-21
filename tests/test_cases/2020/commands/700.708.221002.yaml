@@ -1,0 +1,17 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    AVALON_12V_V: 13.74996
+  response: 708056210022C00
+- expected_values:
+    AVALON_12V_V: 13.81344
+  response: 708056210022C34
+- expected_values:
+    AVALON_12V_V: 13.82321
+  response: 708056210022C3C
+- expected_values:
+    AVALON_12V_V: 13.84274
+  response: 708056210022C4C
+- expected_values:
+    AVALON_12V_V: 13.86227
+  response: 708056210022C5C

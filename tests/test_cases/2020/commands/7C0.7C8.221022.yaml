@@ -1,0 +1,23 @@
+command_id: 7C0.7C8.221022
+test_cases:
+- expected_values:
+    AVALON_FUEL_LEVEL: 56.64
+  response: 7C8056210221620
+- expected_values:
+    AVALON_FUEL_LEVEL: 56.77
+  response: 7C805621022162D
+- expected_values:
+    AVALON_FUEL_LEVEL: 56.83
+  response: 7C8056210221633
+- expected_values:
+    AVALON_FUEL_LEVEL: 56.96
+  response: 7C8056210221640
+- expected_values:
+    AVALON_FUEL_LEVEL: 56.99
+  response: 7C8056210221643
+- expected_values:
+    AVALON_FUEL_LEVEL: 57.01
+  response: 7C8056210221645
+- expected_values:
+    AVALON_FUEL_LEVEL: 57.02
+  response: 7C8056210221646

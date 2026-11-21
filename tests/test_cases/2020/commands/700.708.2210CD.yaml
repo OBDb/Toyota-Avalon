@@ -1,0 +1,23 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    AVALON_LFP: 398.8
+  response: 708056210CD8F94
+- expected_values:
+    AVALON_LFP: 399.2
+  response: 708056210CD8F98
+- expected_values:
+    AVALON_LFP: 400.7
+  response: 708056210CD8FA7
+- expected_values:
+    AVALON_LFP: 401.9
+  response: 708056210CD8FB3
+- expected_values:
+    AVALON_LFP: 403.2
+  response: 708056210CD8FC0
+- expected_values:
+    AVALON_LFP: 403.9
+  response: 708056210CD8FC7
+- expected_values:
+    AVALON_LFP: 405.3
+  response: 708056210CD8FD5

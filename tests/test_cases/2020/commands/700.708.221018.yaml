@@ -1,0 +1,20 @@
+command_id: 700.708.221018
+test_cases:
+- expected_values:
+    AVALON_INJECTOR_PORT: 2.728
+  response: 708056210180AA8
+- expected_values:
+    AVALON_INJECTOR_PORT: 2.746
+  response: 708056210180ABA
+- expected_values:
+    AVALON_INJECTOR_PORT: 2.785
+  response: 708056210180AE1
+- expected_values:
+    AVALON_INJECTOR_PORT: 2.852
+  response: 708056210180B24
+- expected_values:
+    AVALON_INJECTOR_PORT: 3.165
+  response: 708056210180C5D
+- expected_values:
+    AVALON_INJECTOR_PORT: 3.982
+  response: 708056210180F8E

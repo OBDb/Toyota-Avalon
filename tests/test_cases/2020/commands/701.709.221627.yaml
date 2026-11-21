@@ -1,0 +1,14 @@
+command_id: 701.709.221627
+test_cases:
+- expected_values:
+    AVALON_TF1_PAN: 196.25
+  response: '709056216278340'
+- expected_values:
+    AVALON_TF1_PAN: 197.375
+  response: '7090562162783E0'
+- expected_values:
+    AVALON_TF1_PAN: 198.5
+  response: '709056216278480'
+- expected_values:
+    AVALON_TF1_PAN: 199.625
+  response: '709056216278520'

@@ -1,0 +1,22 @@
+command_id: 701.709.220103
+test_cases:
+- expected_values:
+    AVALON_ODO_V5_RAW: 279602
+    AVALON_ODO_V5_UNIT: KM
+  response: '7090762010301044432'
+- expected_values:
+    AVALON_ODO_V5_RAW: 279603
+    AVALON_ODO_V5_UNIT: KM
+  response: '7090762010301044433'
+- expected_values:
+    AVALON_ODO_V5_RAW: 279604
+    AVALON_ODO_V5_UNIT: KM
+  response: '7090762010301044434'
+- expected_values:
+    AVALON_ODO_V5_RAW: 279605
+    AVALON_ODO_V5_UNIT: KM
+  response: '7090762010301044435'
+- expected_values:
+    AVALON_ODO_V5_RAW: 279606
+    AVALON_ODO_V5_UNIT: KM
+  response: '7090762010301044436'

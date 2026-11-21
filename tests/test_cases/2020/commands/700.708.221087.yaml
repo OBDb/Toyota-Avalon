@@ -1,0 +1,23 @@
+command_id: 700.708.221087
+test_cases:
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 7.65517
+  response: '708056210870310'
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 21.71569
+  response: 7080562108708B0
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 29.6052
+  response: 708056210870BD8
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 29.69308
+  response: 708056210870BE1
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 29.77119
+  response: 708056210870BE9
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 30.07388
+  response: 708056210870C08
+- expected_values:
+    AVALON_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 30.27893
+  response: 708056210870C1D
