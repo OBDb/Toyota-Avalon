@@ -1,0 +1,44 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    AVALON_DECEL: -0.49906
+    AVALON_DECEL_2: -0.07129
+  response: |-
+    7B8100961057C7F049C
+    7B82100FBC000000000
+- expected_values:
+    AVALON_DECEL: -0.49906
+    AVALON_DECEL_2: -0.07129
+  response: |-
+    7B8100961057C7F0652
+    7B82100FBC000000000
+- expected_values:
+    AVALON_DECEL: -0.07129
+    AVALON_DECEL_2: 0.21388
+  response: |-
+    7B8100961057F8104EE
+    7B82117068000000000
+- expected_values:
+    AVALON_DECEL: 0.35647
+    AVALON_DECEL_2: -0.92682
+  response: |-
+    7B8100961058279046F
+    7B82100FBE000000000
+- expected_values:
+    AVALON_DECEL: 0.49906
+    AVALON_DECEL_2: -1.212
+  response: |-
+    7B81009610583770541
+    7B82100FBC000000000
+- expected_values:
+    AVALON_DECEL: 2.49529
+    AVALON_DECEL_2: -0.35647
+  response: |-
+    7B810096105917D0568
+    7B82100FBE000000000
+- expected_values:
+    AVALON_DECEL: 2.92306
+    AVALON_DECEL_2: 0.07129
+  response: |-
+    7B810096105948004B5
+    7B82103FF4000000000

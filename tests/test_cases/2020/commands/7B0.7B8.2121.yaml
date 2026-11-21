@@ -1,0 +1,23 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    AVALON_VSS: 43.2
+  response: 7B803612120
+- expected_values:
+    AVALON_VSS: 48.6
+  response: 7B803612124
+- expected_values:
+    AVALON_VSS: 49.95
+  response: 7B803612125
+- expected_values:
+    AVALON_VSS: 55.35
+  response: 7B803612129
+- expected_values:
+    AVALON_VSS: 59.4
+  response: 7B80361212C
+- expected_values:
+    AVALON_VSS: 64.8
+  response: 7B803612130
+- expected_values:
+    AVALON_VSS: 70.2
+  response: 7B803612134

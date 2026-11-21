@@ -1,0 +1,32 @@
+command_id: 700.708.2210A5
+test_cases:
+- expected_values:
+    AVALON_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000000
+    7082100D90000000000
+- expected_values:
+    AVALON_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000025
+    7082100FF0000000000
+- expected_values:
+    AVALON_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000029
+    7082100FF0000000000
+- expected_values:
+    AVALON_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000EE
+    7082100FF0000000000
+- expected_values:
+    AVALON_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000F5
+    7082100FF0000000000
+- expected_values:
+    AVALON_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000117
+    7082100FF0000000000
